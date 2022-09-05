@@ -1,7 +1,7 @@
 # 3D-depth-prediction
 3D depth prediction based on neural network and coded Light
 
-基于语义分割模型（本repository使用的是改进的U-Net模型），实现单帧条纹图到深度图的预测  
+基于语义分割模型（本repository以U-Net模型为baseline），实现单帧条纹图到深度图的预测  
 Single-frame fringe map to depth map prediction based on the semantic segmentation model (this repository uses  U-Net model as baseline)  
 
 ### Prerequisites：
