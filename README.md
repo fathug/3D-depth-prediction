@@ -18,5 +18,5 @@ Run train.py and predict.py by turn.
 
 ### author read:  
 file copy from: PythonSpace/labelme_test  
-![20220905165348](https://cdn.jsdelivr.net/gh/fathug/PicBed@main/picgo/20220905165348.png)  
+![20220905165348](https://github.com/fathug/3D_depth_prediction/blob/main/imgs/20220905165348.png?raw=true)  
 refer: 多阶段深度学习单帧条纹投影三维测量方法
